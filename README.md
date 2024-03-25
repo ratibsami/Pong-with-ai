@@ -1,4 +1,4 @@
-# Pong-with-ai
+# Pong with ai
 The Evolution of Play: Pong Meets Artificial Intelligence
 
 In the pantheon of classic video games, Pong holds a place of honor. As one of the earliest arcade games, it captured the imagination of a generation and laid the groundwork for the gaming industry. But what happens when this icon of digital entertainment meets the cutting-edge world of artificial intelligence (AI)?
