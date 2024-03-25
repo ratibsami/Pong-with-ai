@@ -8,7 +8,9 @@ Pong, at its core, is simplicity itself. Two paddles, one ball, and a score that
 AI has transformed Pong from a mere pastime into a field of competition between human ingenuity and machine learning. Programmers have designed AI that can play Pong not just competently, but with a level of skill that surpasses human ability. These AI systems learn through reinforcement learning, a process where they are rewarded for positive outcomes (such as scoring a point) and penalized for negative ones (such as missing the ball).
 
 
-![Image](https://github.com/ratibsami/Pong-with-ai/assets/137919504/8fb27228-cff9-4167-b2f6-3d7b5af6f5fc)
+![Image](https://github.com/ratibsami/Pong-with-ai/assets/137919504/032ebb9f-3024-42e9-b66f-74c158eae9f8)
+
+
 
 The beauty of AI in Pong is not just in its ability to win but in the way it adapts and evolves. Each game played is a lesson learned, and over time, the AI becomes an increasingly formidable opponent. It begins to anticipate moves, strategize, and even employ deception—a tactic once thought exclusive to human players.
 
